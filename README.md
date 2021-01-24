@@ -585,3 +585,4 @@ Most of the options are inherited from the usual custom games. A few more option
 |station_size|size of the stations; integer from 1 to 5|
 |station_crystal_capacity|factor to apply to the station crystal capacity, range [0.1,10]|
 |station_repair_threshold|part of the station crystal capacity that must be refilled to repair a module. In the range [0,1]|
+| auto_assign_teams | True or false, players are automatically assigned to a team (random) | 
